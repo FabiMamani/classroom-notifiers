@@ -6,9 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="8a69b405-0af9-4e00-9887-4b477a582250" name="Changes" comment="add notifiers">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/notificadores/Whatsapp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/notificadores/Whatsapp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/NotificadorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/NotificadorTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,10 +62,11 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Gradle.NotificadorTest.WhatsappTest.executor": "Debug",
+    "Gradle.Build classroom-notifiers.executor": "Run",
+    "Gradle.NotificadorTest.WhatsappTest.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "ImplementarListener",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/gabri/source/repos/classroom-notifiers",
     "project.structure.last.edited": "Modules",
